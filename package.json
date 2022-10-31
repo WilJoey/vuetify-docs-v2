@@ -19,7 +19,7 @@
   },
   "dependencies": {
     "@vue/cli-plugin-pwa": "^4.5.4",
-    "core-js": "^3.6.4",
+    "core-js": "^3.25.5",
     "docsearch.js": "^2.6.3",
     "moment": "^2.24.0",
     "register-service-worker": "^1.7.1",
